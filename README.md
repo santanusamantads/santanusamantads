@@ -9,9 +9,9 @@ I combine an analytical foundation in physics with modern machine learning and d
 ---
 
 ### 🌐 Quick Links
-- 🌐 [Interactive CV Website](https://santanusamantads.github.io/myCV/)
+- 🌐 [ CV Website](https://santanusamantads.github.io/myCV/)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/santanusamanta9733)
-- 📧 [Email Me](mailto:santanusamanta97330795@gmail.com)
+
 
 ---
 
