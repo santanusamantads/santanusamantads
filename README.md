@@ -18,7 +18,7 @@ I combine an analytical foundation in physics with modern machine learning and d
 ### 🛠️ Skills & Technologies
 - **Languages:** Python, R, C
 - **Data Science & ML:** Machine Learning, Statistical Modeling, Linear & Logistic Regression, Regularization (LASSO), NumPy
-- **Tools & Environments:** Git, GitHub, VS Code, gnuplot, Linux
+- **Tools & Environments:** Git, GitHub, VS Code
 
 ---
 
