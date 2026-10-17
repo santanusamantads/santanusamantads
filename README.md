@@ -25,4 +25,4 @@ I combine an analytical foundation in physics with modern machine learning and d
 ### 📌 Current Focus & Projects
 - 🤖 Applied machine learning models and predictive analysis
 - 📊 Statistical computing and probability modeling
-- 🏎️ Embedded computing and hardware projects (Arduino)
+
